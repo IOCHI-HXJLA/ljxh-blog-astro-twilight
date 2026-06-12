@@ -130,6 +130,7 @@ Deploy your blog to any static hosting platform
 
 ## 🙏 Acknowledgements
 
+
 - Prototype   - [Fuwari](https://github.com/saicaca/fuwari)
 - Inspiration - [Yukina](https://github.com/WhitePaper233/yukina) & [Mizuki](https://github.com/matsuzaka-yuki/Mizuki)
 - Translation - [translate](https://gitee.com/mail_osc/translate)
